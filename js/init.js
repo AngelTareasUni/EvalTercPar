@@ -1,6 +1,6 @@
 firebase.initializeApp({
     apiKey: "AIzaSyDCnrMPU4i_rNskjqDSbcvRa-L-uGmupvc",
-    authDomain: "evaltercparcsaaa.firebaseapp.com",
+    authDomain: "angeltareasuni.github.io",
     projectId: "evaltercparcsaaa",
     storageBucket: "evaltercparcsaaa.appspot.com",
     messagingSenderId: "1065755627465",
