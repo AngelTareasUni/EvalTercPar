@@ -1,2 +1,2 @@
-# rickmrdwp.github.io
-Ejemplo De Conexión a la B.D con Firebase
+# evaltercpar.github.io
+Evaluación tercer parcial
